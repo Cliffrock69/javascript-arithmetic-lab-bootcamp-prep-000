@@ -27,5 +27,3 @@ var number = 10
 function inc(n) {
   number ++
 }
-
-
