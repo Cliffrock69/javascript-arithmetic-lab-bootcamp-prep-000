@@ -28,4 +28,4 @@ function inc(n) {
   number ++
 }
 
-inc(1)
+
